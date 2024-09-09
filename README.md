@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Moath-121
+- 👋 Hi, I’m @Moath
 - 👀 I’m interested in CS/SE/AI
 - 🌱 I’m currently learning Software engineering
